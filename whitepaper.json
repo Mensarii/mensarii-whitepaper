@@ -1,10 +1,15 @@
 {
-  "rootLocation": "",
+  "rootLocation": "//github.com/Mensarii/mensarii-whitepaper/blob/master/",
   "files": [
     {
       "index": 0,
       "name": "English - Master",
       "file": "whitepaper.pdf"
+    },
+    {
+      "index": 1,
+      "name": "Tiếng Việt - Vietnamese",
+      "file": "whitepaper-vietnamese.docx"
     }
   ]
 }
